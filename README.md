@@ -2,7 +2,20 @@
 
 ## Cybersecurity | VAPT | Network Security
 
-I have **4.8 years of enterprise IT experience** and am transitioning into **Cybersecurity** with hands-on experience in **Vulnerability Assessment and Penetration Testing (VAPT)**.
+Welcome to my cybersecurity portfolio.
+
+I have **4.8 years of enterprise IT infrastructure experience** and am transitioning into **Vulnerability Assessment and Penetration Testing (VAPT)**.
+
+---
+
+# 👨‍💻 About Me
+
+- 💼 4.8 Years of IT Infrastructure Experience
+- 🔐 Hands-on VAPT Practice
+- 🌐 Network Security Enthusiast
+- 🐧 Linux User
+- 📑 Security Report Writing
+- 📚 Continuous Learner
 
 ---
 
@@ -29,51 +42,46 @@ I have **4.8 years of enterprise IT experience** and am transitioning into **Cyb
 - Vulnerability Assessment
 - Penetration Testing
 - Web Application Security
-- Network Security
 - Linux Privilege Escalation
+- Network Security
 - Log Analysis
 
 ## Tools
 
 - Nmap
 - Burp Suite
-- Wireshark
 - Metasploit
+- Wireshark
 - SQLmap
 - Gobuster
-- Hydra
 - Nikto
+- Hydra
 - Netcat
 - John the Ripper
 
 ---
 
-# 📚 Learning Platforms
+# 🎯 Hands-on Platforms
 
 - TryHackMe
 - VulnHub
 
 ---
 
-# 📂 Projects
+# 📂 Featured Projects
 
-✔ Enterprise Network Design
-
-✔ GRE VPN
-
-✔ Apache Log Analysis
-
-✔ Network ACL
-
-✔ DHCP & DNS
-
-✔ Web Security Labs
+- Enterprise Network Design
+- GRE VPN
+- Apache Web Server
+- Apache Log Analysis
+- Network ACL
+- DHCP & DNS Services
 
 ---
 
 # 📜 Certification
 
-Microsoft Azure Fundamentals (AZ-900)
+- Microsoft Azure Fundamentals (AZ-900)
 
 ---
 
@@ -81,4 +89,6 @@ Microsoft Azure Fundamentals (AZ-900)
 
 📧 
 
-LinkedIn:
+LinkedIn: 
+
+GitHub: 
