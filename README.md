@@ -1,28 +1,44 @@
-# Krishna Reddy
+# 👋 Hi, I'm Krishna Reddy
 
-## Cybersecurity Portfolio
+## Cybersecurity | VAPT | Network Security
 
-Welcome to my cybersecurity portfolio.
+I have **4.8 years of enterprise IT experience** and am transitioning into **Cybersecurity** with hands-on experience in **Vulnerability Assessment and Penetration Testing (VAPT)**.
 
-I have 4.8 years of enterprise IT experience and I am transitioning into Vulnerability Assessment and Penetration Testing (VAPT).
+---
 
-## Skills
+# 🛠 Technical Skills
 
-- Network Security
+## Operating Systems
+
+- Windows
+- Kali Linux
+- Ubuntu
+
+## Networking
+
+- TCP/IP
+- DNS
+- DHCP
+- Routing & Switching
+- VLAN
+- VPN
+- ACL
+
+## Cyber Security
+
 - Vulnerability Assessment
 - Penetration Testing
-- Linux
-- Active Directory
-- Microsoft Entra ID
-- Microsoft Intune
+- Web Application Security
+- Network Security
+- Linux Privilege Escalation
 - Log Analysis
 
-## Security Tools
+## Tools
 
 - Nmap
 - Burp Suite
-- Metasploit
 - Wireshark
+- Metasploit
 - SQLmap
 - Gobuster
 - Hydra
@@ -30,19 +46,39 @@ I have 4.8 years of enterprise IT experience and I am transitioning into Vulnera
 - Netcat
 - John the Ripper
 
-## Platforms
+---
+
+# 📚 Learning Platforms
 
 - TryHackMe
 - VulnHub
 
-## Certifications
+---
 
-- Microsoft Azure Fundamentals (AZ-900)
+# 📂 Projects
 
-## Projects
+✔ Enterprise Network Design
 
-- Enterprise Network Design
-- GRE VPN
-- Apache Log Analysis
-- Network ACL
-- VAPT Labs
+✔ GRE VPN
+
+✔ Apache Log Analysis
+
+✔ Network ACL
+
+✔ DHCP & DNS
+
+✔ Web Security Labs
+
+---
+
+# 📜 Certification
+
+Microsoft Azure Fundamentals (AZ-900)
+
+---
+
+# 📫 Contact
+
+📧 
+
+LinkedIn:
